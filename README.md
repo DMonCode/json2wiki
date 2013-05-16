@@ -11,3 +11,6 @@ Goal is to talk a JSON data file and convert it to a Wiki file.
 ** json
 
 
+## Goals 
+
+Application will take json file/data + template and create a wiki document that can be added to a mediawiki system.
