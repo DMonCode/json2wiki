@@ -1,4 +1,4 @@
-# "wikiit" is a JSON to WIKI formate load.
+# "json2wiki" is a JSON to WIKI formate load.
 
 Goal is to talk a JSON data file and convert it to a Wiki file. 
 
